@@ -1,0 +1,13 @@
+_pycache_
+model/thaiChar_100b.pt
+model/char11x.pt
+model/yolo11x.pt
+plateCross
+topCamSave
+arduino_log.log
+arduino.log
+line.log
+no_regis
+output.log
+plateSave
+

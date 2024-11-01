@@ -1,0 +1,11 @@
+ultralytics==8.3.3
+opencv-python-headless==4.10.0
+numpy==1.26.4
+shapely==2.0.6
+Pillow==10.4.0
+mysql-connector-python==9.0.0
+flask==3.0.3
+scipy==1.14.0
+requests==2.32.3
+line-bot-sdk==3.13.0
+bcrypt==4.2.0
